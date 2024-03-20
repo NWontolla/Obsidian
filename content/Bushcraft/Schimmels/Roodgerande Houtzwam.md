@@ -1,0 +1,5 @@
+- **Immuunondersteuning:** Paddenstoelen, waaronder de Roodgerande Houtzwam, bevatten stoffen zoals beta-glucanen die het immuunsysteem kunnen stimuleren en de reactie op infecties en ziekteverwekkers kunnen verbeteren.
+- **Antioxidante eigenschappen:** Paddenstoelen bevatten antioxidanten zoals fenolische verbindingen, die vrije radicalen bestrijden en celbeschadiging kunnen verminderen, wat de algehele gezondheid kan bevorderen.
+- **Ontstekingsremmende werking:** Sommige paddenstoelen bevatten verbindingen met ontstekingsremmende eigenschappen, wat gunstig kan zijn voor aandoeningen waarbij ontsteking een rol speelt.
+- **Algemeen welzijn:** Veel mensen gebruiken paddenstoelentincturen als voedingssupplement om hun algehele welzijn, energieniveau en vitaliteit te verbeteren.
+- **Ondersteuning van de spijsvertering:** Paddenstoelen kunnen bijdragen aan een gezonde spijsvertering en darmgezondheid vanwege hun prebiotische eigenschappen.
