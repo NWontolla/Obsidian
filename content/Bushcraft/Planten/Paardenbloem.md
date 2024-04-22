@@ -1,8 +1,8 @@
-| Taal         | Naam                 |
-| ------------ | -------------------- |
-| Latijn       | Taraxacum officinale |
-| Engels       | Dandelion            |
-| Andere namen | **                   |
+| Taal         | Naam                   |
+| ------------ | ---------------------- |
+| Latijn       | *Taraxacum officinale* |
+| Engels       | *Dandelion*            |
+| Andere namen |                        |
 
 Bloeitijde: maart tot mei en september tot november
 
