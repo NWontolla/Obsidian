@@ -1,8 +1,8 @@
-| Taal | Naam |
-| ---- | ---- |
-| Latijn | ** |
-| Engels | ** |
-| Andere namen | ** |
+| Taal         | Naam |
+| ------------ | ---- |
+| Latijn       | **   |
+| Engels       | **   |
+| Andere namen | **   |
 
 
 
